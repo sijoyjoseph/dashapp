@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.modebar {
+  display: none !important;
+}
+
+.draglayer {
+  heigh: 350px;
+}
